@@ -4,7 +4,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Teamlead rol (Visual Thinking)
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
-Bekijk de [Wiki...](https://github.com/EmonaSantiago/dont-repeat-yourself-team-lead/wiki)
+🙋🏻‍♀️Bekijk de [Wiki...](https://github.com/EmonaSantiago/dont-repeat-yourself-team-lead/wiki)
 
 
 ## Inhoudsopgave
